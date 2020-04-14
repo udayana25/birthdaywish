@@ -7,7 +7,6 @@
 }
 body {
   background: #E5E5E5;
-  background-image: url("/gray-floral.png");
   padding: 50px;
 }
 
@@ -16,7 +15,7 @@ body {
 }
 
 #card, #card-front, #card-inside {
-  height: 1350px;
+  height: 1200px;
 }
 
 .wrap {
@@ -219,7 +218,7 @@ p{
 
 audio{
  position: absolute;
- top: 100%;
+ top: 90%;
  left: 35%;
  opacity: 0.5;
 
