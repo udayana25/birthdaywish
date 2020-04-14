@@ -168,7 +168,7 @@ body {
 }
 img{
   position: relative;
-  left:30px;
+  left:20px;
 }
 
 .navigation button{
@@ -195,8 +195,8 @@ p{
 #button32{
   display: none;
   position: absolute;
-  top: 55%;
-  left: 25%;
+  top: 88%;
+  left: 27%;
   width: 300px;
   height: 60px;
   border-radius: 5px;
@@ -207,7 +207,7 @@ p{
 #button42{
   display: none;
   position: absolute;
-  top: 70%;
+  top: 65%;
   left: 25%;
   width: 300px;
   height: 60px;
